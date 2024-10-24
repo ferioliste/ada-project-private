@@ -168,3 +168,4 @@ MovieSummaries/name.clusters.txt
 MovieSummaries/plot_summaries.txt
 MovieSummaries/README.txt
 MovieSummaries/tvtropes.clusters.txt
+tempData/*
